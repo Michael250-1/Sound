@@ -1,0 +1,32 @@
+.header{ 
+    font-family: 'Kaisei Opti', serif;
+    color:red;
+    background:white;
+}
+.header p{
+    color:grey;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight:bold;
+    font-family: 'Yanone Kaffeesatz', sans-serif;;
+}
+button{
+    margin-top: 30px;
+    width:150px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+.footer{
+    position:fixed;
+    color:darkgrey;
+    bottom: 0;
+    width:100%;
+    font-size:18px;
+    line-height:3;
+    background-color: white;
+    text-align:center;
+    text-shadow: 5px 5px 5px grey;
+}
+body{
+    background-color:lightpink;
+}
